@@ -1,11 +1,14 @@
 {
-  "name": "app",
+  "name": "priyawit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "material-ui": "^1.0.0-beta.33",
     "react": "^16.2.0",
+    "react-autosuggest": "^9.3.3",
+    "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
