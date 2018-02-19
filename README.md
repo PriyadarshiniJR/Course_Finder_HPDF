@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello-python-flask
 
 Boilerplate Hasura project with [Flask](http://flask.pocoo.org/) microservice.
@@ -372,3 +373,10 @@ $ docker run --rm -it -p 8080:8080 \
 
 Now, any change you make to your source code will be immediately updated on the running app.
 
+=======
+# Course Finder
+## Developed during HPDF
+### Priyadarshini J R - Python Flask
+### C Kanishka - React Native
+### Afreen Rahman - React JS
+>>>>>>> b84b0df6c85ed924a36f2dd1e6931e5acb582455
