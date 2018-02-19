@@ -8,7 +8,7 @@ import json
 app = Flask(__name__)
 @app.route('/')
 def start():
-	return "Welcome to the application."
+	return "Welcome to the application. Please input your queries to https://app.brashly30.hasura-app.io/query?input=YourQuery"
 
 # Displaying a textbox, sending the data as POST to another endpoint
 # Log the data to stdout
