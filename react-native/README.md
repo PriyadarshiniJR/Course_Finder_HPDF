@@ -42,7 +42,7 @@ App should get installed and start working on the connected device
 
 ### INSTALLING THE APK AND RUNNING THE APP-
 
-•	Click on the following link:https://drive.google.com/open?id=1i5HUPR0bKUcA-v_d04Ci5BkIYPxp4qpu
+•	Click on the following link:https://drive.google.com/open?id=1hxAQO2cAXoajVdrlfDJbH4yMYMqydQko
 
 •	A Google Drive page opens up and you will be prompted to download the file. Click on **DOWNLOAD** and the download should start. 
 
