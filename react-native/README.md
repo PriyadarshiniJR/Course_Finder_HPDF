@@ -66,7 +66,7 @@ Code that comes into play to send requests and save the received result from the
 onSubmit = () =>{
 
          console.log(this.state.newValue);
-         return fetch('https://app.appointee63.hasura-app.io/query?input='+this.state.newValue)
+         return fetch('https://app.brashly30.hasura-app.io/query?input='+this.state.newValue)
          .then(
             (response)=> {
             if (response.status !== 200) {
